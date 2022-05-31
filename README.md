@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tarkiom
-- 👀 I’m interested in Developpement
+- 👀 I am interested in development
 - 🌱 I’m currently learning Lua, JS , HTML,CSS
 
 <!---
